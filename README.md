@@ -1,4 +1,4 @@
-# BlightFight
+# Blight
 
 ## Task
 
