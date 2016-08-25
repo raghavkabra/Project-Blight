@@ -4,6 +4,7 @@
 
 Work with real data collected in Detroit to help urban planners predict **blight** (the deterioration and decay of buildings and older areas of large cities, due to neglect, crime, or lack of economic support).
 
+
 ## Approach
 
 ### Step 1: Establish a list of all the buildings with their space extents.
